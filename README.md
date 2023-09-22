@@ -52,3 +52,8 @@ switch conditionID {
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
+
+
+### Notes
+
+In order to run the app successfully locally, you need to add keys.plist with "WEATHER_API_KEY" property and open weather api key value.
